@@ -1,0 +1,12 @@
+{
+  "name": "manejoarchivosjs",
+  "version": "1.0.0",
+  "description": "manejo de archivos(vanilla)",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
